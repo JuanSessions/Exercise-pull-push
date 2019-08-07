@@ -2,5 +2,7 @@
 
 - Open the file "Back to the future"
 - add a line to this file and commit it.
-- Please go to the SHA c1de561 and try to add a line one the initial commit
+- Please go to the SHA c1de561 and make any change to the file and commit it. 
+- If cannot push the changes, create a branch.
+ 
 
